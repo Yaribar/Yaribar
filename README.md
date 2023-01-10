@@ -22,9 +22,11 @@ I'm Yarib Hernandez | Embedded Software and Hardware Developer | Mechatronics En
 Flight simulator graphical interface. The STM32F407VE Black Board card was used for data acquisition while an EVK1105 evaluation card with LCD screen was used for visualization. A joystick was used to control the position of the engines, as well as an IMU to obtain the orientation of the aircraft. SPI, LCD, ADC, TIMERS, DMA
 
 Implementation of a virtual dashboard for real-time monitoring of electric car systems and its instrumentation. The variables were proccesed with a ESP32 microcontroler and sent through WiFi
-
-## What I'm currently learning...
+## Certificates
 
 Introduction to Embedded Systems Software and Development Environments | University of Colorado Boulder
 
+## What I'm currently learning...
+
 Embedded Software and Hardware Architecture | University of Colorado Boulder
+Real-Time Embedded Systems | University of Colorado Boulder
