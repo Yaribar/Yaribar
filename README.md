@@ -7,7 +7,7 @@ I'm Yarib Hernandez | Embedded Software and Hardware Developer | Mechatronics En
   - IoT Hardware Interfacing
   - Python programing 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugondon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaribar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 You can reach me via:
 
