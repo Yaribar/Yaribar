@@ -26,6 +26,8 @@ Implementation of a virtual dashboard for real-time monitoring of electric car s
 
 Introduction to Embedded Systems Software and Development Environments | University of Colorado Boulder
 
+Embedded Software and Hardware Architecture | University of Colorado Boulder
+
 ## What I'm currently learning...
 
 Real-Time Embedded Systems | University of Colorado Boulder
