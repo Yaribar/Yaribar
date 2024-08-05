@@ -1,9 +1,10 @@
 # Hi there 👋.
 ## About Me
-I'm Yarib Hernandez | Embedded Software and Hardware Developer | Mechatronics Engineer
+I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
 
 ⚡ My main interests are:
-  - Microcontroller (AVR, STM32 & ESP32) firmware development.
+  - Machine Learning
+  - Microcontrollers (NXP, AVR, STM32 & ESP32) firmware development.
   - IoT Hardware Interfacing
   - Python programing 
 
@@ -18,13 +19,13 @@ I'm Yarib Hernandez | Embedded Software and Hardware Developer | Mechatronics En
   
 
 ## Projects I've worked on.
-
+  -Updating...
   -Flight simulator graphical interface. The STM32F407VE Black Board card was used for data acquisition while an EVK1105 evaluation card with LCD screen was used for visualization. A joystick was used to control the position of the engines, as well as an IMU to obtain the orientation of the aircraft. SPI, LCD, ADC, TIMERS, DMA
   -Implementation of a virtual dashboard for real-time monitoring of electric car systems and its instrumentation. The variables were proccesed with a ESP32 microcontroler and sent through WiFi
   
 ## Certificates
-
+  -Mathematics for Machine Learning Specialization | Imperial College London
   -Introduction to Embedded Systems Software and Development Environments | University of Colorado Boulder
   -Embedded Software and Hardware Architecture | University of Colorado Boulder
 ## What I'm currently learning...
--Real-Time Embedded Systems | University of Colorado Boulder
+-Introduction to Machine Learning | Duke University
