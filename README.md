@@ -4,9 +4,9 @@ I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
 
 ⚡ My main interests are:
   - Machine Learning
-  - Microcontrollers (NXP, AVR, STM32 & ESP32) firmware development.
-  - IoT Hardware Interfacing
   - Python programing 
+  - Microcontrollers (NXP, AVR, STM32 & ESP32) firmware development.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaribar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,16 +16,12 @@ I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
 | ----------- | ----------- |
 | ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | yarib.her@gmail.com  |
 | ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) |  [Yaribar]https://www.linkedin.com/in/yaribar/ | 
-  
 
-## Projects I've worked on.
-  -Updating...
-  -Flight simulator graphical interface. The STM32F407VE Black Board card was used for data acquisition while an EVK1105 evaluation card with LCD screen was used for visualization. A joystick was used to control the position of the engines, as well as an IMU to obtain the orientation of the aircraft. SPI, LCD, ADC, TIMERS, DMA
-  -Implementation of a virtual dashboard for real-time monitoring of electric car systems and its instrumentation. The variables were proccesed with a ESP32 microcontroler and sent through WiFi
   
 ## Certificates
   -Mathematics for Machine Learning Specialization | Imperial College London
-  -Introduction to Embedded Systems Software and Development Environments | University of Colorado Boulder
-  -Embedded Software and Hardware Architecture | University of Colorado Boulder
+  -Introduction to Machine Learning | Duke University
+  -Introduction to embedded Machine Learning
 ## What I'm currently learning...
--Introduction to Machine Learning | Duke University
+  -Building Cloud Computing Solutions at Scale
+  -MLOps | Machine Learning Operations
