@@ -20,8 +20,11 @@ I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
   
 ## Certificates
   -Mathematics for Machine Learning Specialization | Imperial College London
+  
   -Introduction to Machine Learning | Duke University
+  
   -Introduction to embedded Machine Learning
 ## What I'm currently learning...
   -Building Cloud Computing Solutions at Scale
+  
   -MLOps | Machine Learning Operations
