@@ -3,9 +3,9 @@
 I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
 
 ⚡ My main interests are:
+  - Cloud Computing
   - Machine Learning
   - Python programing 
-  - Microcontrollers (NXP, AVR, STM32 & ESP32) firmware development.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaribar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
