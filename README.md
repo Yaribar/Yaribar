@@ -8,7 +8,7 @@ I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
   - Python programing 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaribar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaibar)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 You can reach me via:
 
