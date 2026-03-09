@@ -8,8 +8,6 @@ I'm Yarib Hernandez | Embedded Software Engineer | Machine Learning Engineer
   - Python programing 
 
 
-![Yarib's GitHub stats](github-readme-stats-3k87fk0n5-yaribher-7111s-projects.vercel.app)
-
 💬 You can reach me via:
 
 | Option | Information |
